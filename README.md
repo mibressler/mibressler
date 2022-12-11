@@ -34,7 +34,7 @@
 
   
 <details>
-    <summary>&#128187 <b>All blog posts</b></summary><br/>
+    <summary><b>Publikationen</b></summary><br/>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com/web3phl/bio/issues/11) in [web3phl/bio](https://github.com/web3phl/bio)
