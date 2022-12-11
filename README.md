@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=linkedin&logoColor=lightgrey" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/mibressler">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=twitter&logoColor=lightgrey" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=twitter&logoColor=lightgrey" alt="Twitter Badge"/>
   </a>
   <a href="https://twitter.com/mibressler">
     <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=medium&logoColor=lightgrey" alt="Twitter Badge"/>
