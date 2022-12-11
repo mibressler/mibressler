@@ -25,7 +25,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mibressler&repo=uegr)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
+    <summary>&#128187 <b>All blog posts</b></summary><br/>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com/web3phl/bio/issues/11) in [web3phl/bio](https://github.com/web3phl/bio)
