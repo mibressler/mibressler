@@ -6,7 +6,7 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/michaelbressler/">
-    <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=linkedin&logoColor=lightgrey&logoWidth=10" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=linkedin&logoColor=lightgrey&logoWidth=100" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/mibressler">
     <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=twitter&logoColor=lightgrey&logoWidth=10" alt="Twitter Badge"/>
