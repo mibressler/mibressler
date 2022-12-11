@@ -16,7 +16,7 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/michaelbressler/">
-    <img src="https://img.shields.io/badge/Linkedin-white?style=flat-sqaure&logo=linkedin&logoColor=lightgrey" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-white?style=flat-sqaure&logo=linkedin&logoColor=lightgrey" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/mibressler">
     <img src="https://img.shields.io/badge/Twitter-white?style=flat-sqaure&logo=twitter&logoColor=lightgrey" alt="Twitter Badge"/>
