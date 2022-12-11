@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/mibressler-white?style=flat-sqaure&logo=linkedin&logoColor=lightgrey" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/mibressler">
-    <img src="https://img.shields.io/badge/Twitter-white?style=flat-sqaure&logo=twitter&logoColor=lightgrey" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/mibressler-white?style=flat-sqaure&logo=twitter&logoColor=lightgrey" alt="Twitter Badge"/>
   </a>
   <a href="https://twitter.com/mibressler">
     <img src="https://img.shields.io/badge/addendum.blog-white?style=flat-sqaure&logo=medium&logoColor=lightgrey" alt="Twitter Badge"/>
