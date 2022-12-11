@@ -1,7 +1,5 @@
 ### Hi there :wave: 
 
-Test 
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/michaelbressler/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
