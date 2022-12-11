@@ -18,6 +18,7 @@
 
 ####  Latest blog post
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mibressler&repo=uegr)](https://addendum.blog)
+
 ####  Current project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mibressler&repo=uegr)](https://github.com/anuraghazra/github-readme-stats)
 
