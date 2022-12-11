@@ -26,7 +26,7 @@
 
 
 <details>
-    <summary>&#128187 <b>All blog posts</b></summary><br/>
+    <summary><b>All blog posts</b></summary><br/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mibressler&repo=uegr)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mibressler&repo=uegr)](https://github.com/anuraghazra/github-readme-stats)
