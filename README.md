@@ -16,8 +16,6 @@
   </a>
 </div>
 
-------
-
 ####  Latest blog post
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mibressler&repo=uegr)](https://addendum.blog)
 
