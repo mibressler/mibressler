@@ -19,10 +19,10 @@
   </a>
 </div>
 
-####  Latest blog post
+####  Blog Posts
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mibressler&repo=uegr)](https://addendum.blog)
 
-####  Current project
+####  Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openparl&repo=openparl)](https://github.com/openparl/openparl)
 
 <details>
