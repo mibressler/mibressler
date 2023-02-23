@@ -12,13 +12,10 @@
     <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=twitter&logoColor=lightgrey" alt="Twitter Badge"/>
   </a>
   <a href="https://youtube.com/mibressler">
-    <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=youtube&logoColor=lightgrey" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=youtube&logoColor=lightgrey" alt="YouTube"/>
   </a>
-  <a href="https://twitter.com/mibressler">
-    <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=medium&logoColor=lightgrey" alt="Twitter Badge"/>
-  </a>
-  <a href="https://twitter.com/mibressler">
-    Addendum
+  <a href="https://addendum.blog">
+    <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=medium&logoColor=lightgrey" alt="Addendum Blog"/>
   </a>
 </div>
 
