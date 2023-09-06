@@ -3,6 +3,10 @@
 ## Blog
 [computationallaw.blog](computationallaw.blog)
 
+## Aufsätze & Publikationen
+1. __Entwicklung von Kriterien zur algorithmischen Abbildbarkeit von Rechtsnormen__, Bachelor's Thesis, Technische Unviersität München, November 2022 (unveröffentlicht)
+2. __BayWiDI Briefing 2023/1__, Informationsdienst IT-Sicherheit und Recht, (Hrsg. Prof. Dr. Dirk Heckmann, Technische Universität München), Januar 2023
+
 ## Projects
 
 @commonrules
