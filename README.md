@@ -1,7 +1,7 @@
 
 
 ## Blog
-**[https://computationallaw.blog](computationallaw.blog)**
+**[computationallaw.blog](https://computationallaw.blog)**
 
 ## Aufsätze & Publikationen
 1. ***Entwicklung von Kriterien zur algorithmischen Abbildbarkeit von Rechtsnormen***, Bachelor's Thesis, Technische Unviersität München, November 2022 (unveröffentlicht)
