@@ -15,7 +15,7 @@
 
 ## Projects
 
-@commonrules
+[github.com/commonrules](https://github.com/commonrules)
 
 Here is a simple footnote[^1].
 
