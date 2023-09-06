@@ -1,6 +1,6 @@
 # Hi there :wave: 
 
-### Blog
+## Blog
 computationallaw.blog
 
 ## Projects
