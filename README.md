@@ -1,6 +1,6 @@
 Michael Bressler studiert Politics & Technology (M.Sc.) an der Technischen Universität München sowie Legal Technology (LL.B.) an der Universität Passau. Seit Oktober 2020 ist er als studentische Hilfskraft am [Lehrstuhl für Recht und Sicherheit der Digitalisierung](https://www.gov.sot.tum.de/elaw/startseite/) sowie am [TUM Center for Digital Public Services](https://tum-cdps.de/) tätig.
 
-Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tech), Staatsrecht, empirischer Rechtspolitik (Gesetzgebungsarbeit in der Politik), Ordnungsökonomik sowie der Entwicklung von E-Learning-Systemen für die universitäre Lehre.
+Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tech), Staatsrecht, empirischer Rechtspolitik (Gesetzgebungsarbeit in der Politik), Ordnungsökonomik sowie der Entwicklung von E-Learning-Systemen für die universitäre Lehre. @commonrules
 
 [michael.bressler@tum.de](mailto:[email&#160;protected])
 
