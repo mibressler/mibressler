@@ -2,7 +2,7 @@ Michael Bressler studiert Politics & Technology (M.Sc.) an der Technischen Unive
 
 Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tech), Staatsrecht, empirischer Rechtspolitik (Gesetzgebungsarbeit in der Politik), Ordnungsökonomik sowie der Entwicklung von E-Learning-Systemen für die universitäre Lehre.
 
-[Contact Email](mailto:[email&#160;protected])
+[michael.bressler@tum.de](mailto:[email&#160;protected])
 
 <details>
   <summary><b>Aktuelle Projekte</b></summary>
@@ -49,4 +49,7 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
   | Nr. | Title | Links |
   |-|-|-|
-  | 1 | _Bundesrepublik Deutschland: Verfassungsorgane und politische Ebenen_, Seminar Politik in Theorie und Praxis: Regionalpolitik, veranstaltet durch MdL Isabell Zacharias & Prof. Dr. Jü
+  | 1 | _Bundesrepublik Deutschland: Verfassungsorgane und politische Ebenen_, Seminar Politik in Theorie und Praxis: Regionalpolitik, veranstaltet durch MdL Isabell Zacharias & Prof. Dr. Jürgen Pfeffer, Hochschule für Politik München (TUM), 13.05.2022 | [Slides](https://nbviewer.org/github/mibressler/website/blob/main/files/Verfassungsorgane.pdf) |
+  | 2 | _Konzept einer Überwachungsgesamtrechnung in Deutschland_, Seminar Innere Sicherheit und Digitalisierung, Hochschule für Politik München (TUM), 13.12.2021 | [Slides](https://nbviewer.org/github/mibressler/website/blob/main/files/%C3%9Cberwachungsgesamtrechnung_Slides.pdf) |
+
+</details>
