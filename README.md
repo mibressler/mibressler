@@ -4,6 +4,8 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
 [Contact Email](mailto:[email&#160;protected])
 
+## Aktuelle Projekte
+
 
 ## Aufsätze & Publikationen
 
