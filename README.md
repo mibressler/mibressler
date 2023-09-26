@@ -6,7 +6,7 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 [michael.bressler@tum.de](mailto:[email&#160;protected])
 
 <details open>
-  <summary><b>Spotlight</b></summary>
+  <summary><b>📌</b></summary>
 
   | Nr. | Title | Links |
   |-|-|-|
