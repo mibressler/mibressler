@@ -10,7 +10,7 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
 
 
-- **Computational Law Blog**
+ [**Computational Law Blog**](con)
  
 
 </details>
