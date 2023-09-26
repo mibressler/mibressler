@@ -4,6 +4,9 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
 [Contact Email](mailto:[email&#160;protected])
 
+
+# Archiv
+
 ## Aufsätze & Publikationen
 
 1. _Entwicklung von Kriterien zur algorithmischen Abbildbarkeit von Rechtsnormen_, Bachelor's Thesis, Technische Unviersität München, November 2022 (unveröffentlicht)
