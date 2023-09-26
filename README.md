@@ -9,10 +9,8 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
   | Nr. | Title | Links |
   |-|-|-|
-  | 1 | _Elaw Learn_, E-Learning-Plattform zur Unterstützung der Lehre am Lehrstuhl für Recht und Sicherheit der Digitalisierung, fortlaufend | - |
+  | 1 | Computational Law Blog, fortlaufend | [complaw.blog](computationallaw.blog) |
   | 2 | _Wiki für das Bayerische Digitalgesetz_, TUM Center for Digital Public Services, fortlaufend | [Projektbeschreibung](https://www.tum-cdps.de/projekte/) \| [GitHub](https://github.com/tum-elaw/BayDiG-wiki) \| [digitalgesetz.wiki](https://digitalgesetz.wiki) |
-  | 3 | _Social Media Leitfaden für Beschäftigte im Öffentlichen Dienst_, TUM Center for Digital Public Services, Februar 2023 | [Artikel](https://www.hfp.tum.de/hfp/aktuelles/article/safer-internet-day-2023-tum-cdps-stellt-social-media-leitfaden-fuer-beschaeftigte-im-oeffentlichen-dienst-vor/) \| [sml.tum-cdps.de](https://sml.tum-cdps.de) |
-  | 4 | _RechtGPT_, Experimentelle semantsiche Suchmaschine für deutsche Gerichtsurteile (basierend auf Embedding der Urteilstexte), Team-Projektarbeit, Legal Loves Tech Hackathon, Januar 2023 | [GitHub](https://github.com/mibressler/chat.recht.dev) \| [recht.dev](https://recht.dev) |
 
 </details>
 
