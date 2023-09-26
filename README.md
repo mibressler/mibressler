@@ -28,8 +28,3 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
 1. _Bundesrepublik Deutschland: Verfassungsorgane und politische Ebenen_, Seminar Politik in Theorie und Praxis: Regionalpolitik, veranstaltet durch MdL Isabell Zacharias & Prof. Dr. Jürgen Pfeffer, Hochschule für Politik München (TUM), 13.05.2022, [Slides](https://nbviewer.org/github/mibressler/website/blob/main/files/Verfassungsorgane.pdf)
 2. _Konzept einer Überwachungsgesamtrechnung in Deutschland_, Seminar Innere Sicherheit und Digitalisierung, Hochschule für Politik München (TUM), 13.12.2021, [Slides](https://nbviewer.org/github/mibressler/website/blob/main/files/%C3%9Cberwachungsgesamtrechnung_Slides.pdf)
-
-[![LinkedIn](https://www.linkedin.com/michaelbressler)]
-[![GitHub](https://github.com/mibressler)]
-[![Discord](https://www.linkedin.com/michaelbressler)]
-[![YouTube](https://www.linkedin.com/michaelbressler)]
