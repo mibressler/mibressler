@@ -5,14 +5,14 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 [Contact Email](mailto:[email&#160;protected])
 
 <details>
-  <summary>Aktuelle Projekte</summary>
+  <summary>## Aktuelle Projekte</summary>
   
   <!-- There is no content specified under "Aktuelle Projekte" so I'm leaving it empty. -->
   
 </details>
 
 <details>
-  <summary>Aufsätze & Publikationen</summary>
+  <summary>## Aufsätze & Publikationen</summary>
 
   | Nr. | Title | Links |
   |-|-|-|
@@ -21,7 +21,7 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 </details>
 
 <details>
-  <summary>Mitarbeit an Publikationen</summary>
+  <summary>## Mitarbeit an Publikationen</summary>
 
   | Nr. | Title | Links |
   |-|-|-|
@@ -33,7 +33,7 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 </details>
 
 <details>
-  <summary>Projekte</summary>
+  <summary>## Projekte</summary>
 
   | Nr. | Title | Links |
   |-|-|-|
@@ -45,11 +45,9 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 </details>
 
 <details>
-  <summary>Präsentationen & Vorträge</summary>
+  <summary>## Präsentationen & Vorträge</summary>
 
   | Nr. | Title | Links |
   |-|-|-|
   | 1 | _Bundesrepublik Deutschland: Verfassungsorgane und politische Ebenen_, Seminar Politik in Theorie und Praxis: Regionalpolitik, veranstaltet durch MdL Isabell Zacharias & Prof. Dr. Jürgen Pfeffer, Hochschule für Politik München (TUM), 13.05.2022 | [Slides](https://nbviewer.org/github/mibressler/website/blob/main/files/Verfassungsorgane.pdf) |
-  | 2 | _Konzept einer Überwachungsgesamtrechnung in Deutschland_, Seminar Innere Sicherheit und Digitalisierung, Hochschule für Politik München (TUM), 13.12.2021 | [Slides](https://nbviewer.org/github/mibressler/website/blob/main/files/%C3%9Cberwachungsgesamtrechnung_Slides.pdf) |
-
-</details>
+  | 2 | _Konzept einer Überwachungsgesamtrechnung in Deutschland_, Seminar Innere Sicherheit und Digitalisierung,
