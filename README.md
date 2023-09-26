@@ -4,12 +4,18 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
 [michael.bressler@tum.de](mailto:[email&#160;protected])
 
-<details>
+<details open>
   <summary><b>Aktuelle Projekte</b></summary>
-  
-  <!-- There is no content specified under "Aktuelle Projekte" so I'm leaving it empty. -->
-  
+
+  | Nr. | Title | Links |
+  |-|-|-|
+  | 1 | _Elaw Learn_, E-Learning-Plattform zur Unterstützung der Lehre am Lehrstuhl für Recht und Sicherheit der Digitalisierung, fortlaufend | - |
+  | 2 | _Wiki für das Bayerische Digitalgesetz_, TUM Center for Digital Public Services, fortlaufend | [Projektbeschreibung](https://www.tum-cdps.de/projekte/) \| [GitHub](https://github.com/tum-elaw/BayDiG-wiki) \| [digitalgesetz.wiki](https://digitalgesetz.wiki) |
+  | 3 | _Social Media Leitfaden für Beschäftigte im Öffentlichen Dienst_, TUM Center for Digital Public Services, Februar 2023 | [Artikel](https://www.hfp.tum.de/hfp/aktuelles/article/safer-internet-day-2023-tum-cdps-stellt-social-media-leitfaden-fuer-beschaeftigte-im-oeffentlichen-dienst-vor/) \| [sml.tum-cdps.de](https://sml.tum-cdps.de) |
+  | 4 | _RechtGPT_, Experimentelle semantsiche Suchmaschine für deutsche Gerichtsurteile (basierend auf Embedding der Urteilstexte), Team-Projektarbeit, Legal Loves Tech Hackathon, Januar 2023 | [GitHub](https://github.com/mibressler/chat.recht.dev) \| [recht.dev](https://recht.dev) |
+
 </details>
+
 
 <details>
   <summary><b>Aufsätze & Publikationen</b></summary>
