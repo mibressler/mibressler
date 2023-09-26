@@ -1,6 +1,11 @@
 > [!NOTsE]
 > Highlights information that users should take into account, even when skimming.
 
+   | Center-aligned | 
+  |     :---:      |  
+  | git status     | 
+ | git diff       | 
+
 <details open>
   <summary><b>Vorgestellt</b></summary>
 
