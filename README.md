@@ -5,7 +5,7 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 [michael.bressler@tum.de](mailto:[email&#160;protected])
 
 <details>
-  <summary>Aufsätze & Publikationen</summary>
+  <summary>##Aufsätze & Publikationen</summary>
 
   1. _Entwicklung von Kriterien zur algorithmischen Abbildbarkeit von Rechtsnormen_, Bachelor's Thesis, Technische Unviersität München, November 2022 (unveröffentlicht)
 
