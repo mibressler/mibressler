@@ -8,6 +8,7 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 <details open>
   <summary><b>Vorgestellt</b></summary>
 
+
  |-|-| 
  | Computational Law Blog | link |
  
