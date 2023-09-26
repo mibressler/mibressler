@@ -2,7 +2,7 @@ Michael Bressler studiert Politics & Technology (M.Sc.) an der Technischen Unive
 
 Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tech), Staatsrecht, empirischer Rechtspolitik (Gesetzgebungsarbeit in der Politik), Ordnungsökonomik sowie der Entwicklung von E-Learning-Systemen für die unversitäre Lehre.
 
-[michael.bressler [at] tum.de(mailto:[email&#160;protected])
+[michael.bressler@tum.de](mailto:[email&#160;protected])
 
 <details>
   <summary>Aufsätze & Publikationen</summary>
