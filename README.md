@@ -1,2 +1,1 @@
-## Hi 👋
-## [Mehr](sw)
+Michael Bressler studies Politics & Technology (M.Sc.) at the Technical University of Munich and Legal Technology (LL.B.) at the University of Passau. Since October 2020, he has been working as a student assistant at the Chair of Law and Security in Digital Transformation and at the TUM Center for Digital Public Services. His main areas of interest are legal informatics (legal tech), constitutional law, empirical legal policy (legislative work in politics), regulatory economics, and the development of e-learning systems.
