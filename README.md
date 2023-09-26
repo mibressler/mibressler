@@ -10,7 +10,7 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
   | Nr. | Title | Links |
   |-|-|-|
-  | 1 | Computational Law Blog | [complaw.blog](computationallaw.blog) |
+  | 1 | Computational Law Blog | [complaw.blog](https://computationallaw.blog) |
   | 2 | Chainfeed | [Projektbeschreibung](https://www.tum-cdps.de/projekte/) \| [GitHub](https://github.com/tum-elaw/BayDiG-wiki) \| [digitalgesetz.wiki](https://digitalgesetz.wiki) |
 
 </details>
