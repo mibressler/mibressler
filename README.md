@@ -1,6 +1,6 @@
 
 
-   | Center-aligned | 
+
   |     :---:      |  
   | [**Computational Law Blog**](wd)    | 
  | git diff       | 
