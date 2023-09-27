@@ -1,6 +1,5 @@
 
-
-
+ | |
   |     :---:      |  
   | [**Computational Law Blog**](wd)    | 
  | git diff       | 
