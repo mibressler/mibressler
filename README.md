@@ -2,7 +2,7 @@
 
    | Center-aligned | 
   |     :---:      |  
-  | git status     | 
+  | [**Computational Law Blog**](wd)    | 
  | git diff       | 
 
 <details open>
