@@ -57,7 +57,11 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
 </details>
 
-<script src="https://gist.github.com/mibressler/93f4e26b618360bcf445b9a39fa2701d.js"></script>
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 <details open>
   <summary><b>Vorgestellt</b></summary>
