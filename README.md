@@ -2,7 +2,7 @@
 <details open>
   <summary><b>Vorgestellt</b></summary>
 
- [**Computational Law Blog**](con), [**Computational Law Blog**](con)
+ [**Computational Law Blog**](con), [**Wiki für das Bayerische Digitalgsetz**](con)
 </details>
 
 
