@@ -12,7 +12,9 @@ sowie am [TUM Center for Digital Public Services](https://tum-cdps.de/) tätig.
 
 Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tech), Staatsrecht, empirischer Rechtspolitik (Gesetzgebungsarbeit in der Politik), Ordnungsökonomik sowie der Entwicklung von E-Learning-Systemen für die universitäre Lehre. 
 
-[michael.bressler@tum.de](mailto:[email&#160;protected])
+```ruby
+michael.bressler@tum.de
+```
 
 
 <details>
@@ -59,9 +61,6 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
 </details>
 
-```ruby
-michael.bressler@tum.de
-```
 
 
 
