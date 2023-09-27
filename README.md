@@ -1,4 +1,7 @@
-
+ | Vorgestellt |
+  |     :---:      |  
+  | [**Computational Law Blog**](wd)    | 
+ | git diff       | 
 
 
 Michael Bressler studiert Politics & Technology (M.Sc.) an der Technischen Universität München sowie Legal Technology (LL.B.) an der Universität Passau. Seit Oktober 2020 ist er als studentische Hilfskraft am [Lehrstuhl für Recht und Sicherheit der Digitalisierung](https://www.gov.sot.tum.de/elaw/startseite/)
@@ -62,7 +65,4 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
 </details>
 
- | |
-  |     :---:      |  
-  | [**Computational Law Blog**](wd)    | 
- | git diff       | 
+
