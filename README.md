@@ -1,7 +1,7 @@
  | Vorgestellt |
   |     :---:      |  
   | [**Computational Law Blog**](wd)    | 
- | Wiki für das Bayerische Digitalgesetz     | 
+ | [**Wiki für das Bayerische Digitalgesetz**](wd)     | 
 
 
 Michael Bressler studiert Politics & Technology (M.Sc.) an der Technischen Universität München sowie Legal Technology (LL.B.) an der Universität Passau. Seit Oktober 2020 ist er als studentische Hilfskraft am [Lehrstuhl für Recht und Sicherheit der Digitalisierung](https://www.gov.sot.tum.de/elaw/startseite/)
