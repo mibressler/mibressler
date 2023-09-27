@@ -4,7 +4,6 @@
 
  [**Computational Law Blog**](con)
  
- -----
 
 </details>
 
@@ -53,12 +52,6 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 <details>
   <summary><b>Präsentationen & Vorträge</b></summary>
 
-  
- | |
-  |     :---:      |  
-  | [**Computational Law Blog**](wd)    | 
- | git diff       | 
-
 
   | Nr. | Title | Links |
   |-|-|-|
@@ -66,3 +59,9 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
   | 2 | _Konzept einer Überwachungsgesamtrechnung in Deutschland_, Seminar Innere Sicherheit und Digitalisierung, Hochschule für Politik München (TUM), 13.12.2021 | [Slides](https://nbviewer.org/github/mibressler/website/blob/main/files/%C3%9Cberwachungsgesamtrechnung_Slides.pdf) |
 
 </details>
+
+
+ | |
+  |     :---:      |  
+  | [**Computational Law Blog**](wd)    | 
+ | git diff       | 
