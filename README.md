@@ -57,10 +57,10 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
 </details>
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```
 
 <details open>
