@@ -1,9 +1,4 @@
 
- | |
-  |     :---:      |  
-  | [**Computational Law Blog**](wd)    | 
- | git diff       | 
-
 <details open>
   <summary><b>Vorgestellt</b></summary>
 
@@ -57,6 +52,13 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 
 <details>
   <summary><b>Präsentationen & Vorträge</b></summary>
+
+  
+ | |
+  |     :---:      |  
+  | [**Computational Law Blog**](wd)    | 
+ | git diff       | 
+
 
   | Nr. | Title | Links |
   |-|-|-|
