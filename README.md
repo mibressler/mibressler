@@ -8,8 +8,6 @@
 <details open>
   <summary><b>Vorgestellt</b></summary>
 
-[wd](https://github.com/tum-elaw/BayDiG-wiki/blob/c5bcbe33394ed708f08119bdbcd3d249751eed0c/package.json#L14)
-
  [**Computational Law Blog**](con)
  
  ---
