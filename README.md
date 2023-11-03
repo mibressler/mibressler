@@ -1,11 +1,11 @@
-
+### Short Bio
 <details open>
   <summary><b>Vorgestellt</b></summary>
 
  [**Computational Law Blog**](con), [**Wiki für das Bayerische Digitalgsetz**](https://digitalgesetz.wiki)
 </details>
 
-
+### Long Bio
 Michael Bressler studiert Politics & Technology (M.Sc.) an der Technischen Universität München sowie Legal Technology (LL.B.) an der Universität Passau. Seit Oktober 2020 ist er als studentische Hilfskraft am [Lehrstuhl für Recht und Sicherheit der Digitalisierung](https://www.gov.sot.tum.de/elaw/startseite/)
 sowie am [TUM Center for Digital Public Services](https://tum-cdps.de/) tätig.
 
