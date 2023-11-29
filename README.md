@@ -60,7 +60,7 @@ michael@bressler.xyz
 
 <details open>
 <summary><b>Side Projects</b></summary>
-Legal Tech <a href="https://github.com/commonrules">@commonrules</a>    
+Legal Tech <a href="https://github.com/commonrules">@commonrules</a>    <nl></nl>
 Complaw Blog <a href="https://github.com/computationlaw">@computationlaw</a>    
 Creative Projects <a href="https://github.com/alpineoutput">@alpineoutput</a>
 
