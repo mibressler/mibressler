@@ -15,7 +15,7 @@ michael@bressler.dev
 
 
 <details>
-  <summary><b>Aufsätze & Publikationen</b></summary>
+  <summary><b>Essays, Blog Posts & Publications</b></summary>
 
   | Nr. | Title | Links |
   |-|-|-|
@@ -24,7 +24,7 @@ michael@bressler.dev
 </details>
 
 <details>
-  <summary><b>Mitarbeit an Publikationen</b></summary>
+  <summary><b>Contributions to publications</b></summary>
 
   | Nr. | Title | Links |
   |-|-|-|
@@ -36,7 +36,7 @@ michael@bressler.dev
 </details>
 
 <details>
-  <summary><b>Projekte</b></summary>
+  <summary><b>Projects</b></summary>
 
   | Nr. | Title | Links |
   |-|-|-|
@@ -48,7 +48,7 @@ michael@bressler.dev
 </details>
 
 <details>
-  <summary><b>Präsentationen & Vorträge</b></summary>
+  <summary><b>Presentations and more</b></summary>
 
 
   | Nr. | Title | Links |
