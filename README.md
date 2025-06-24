@@ -13,6 +13,10 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 michael@bressler.dev
 ```
 
+```javascript
+@bressler.dev
+```
+
 
 <details>
   <summary><b>Essays, Blog Posts & Publications</b></summary>
