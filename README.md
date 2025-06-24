@@ -14,9 +14,6 @@ michael@bressler.dev
 ```
 
 
-[@bressler.dev](https://threads.com/bressler.dev)
-
-
 
 <details>
   <summary><b>Essays, Blog Posts & Publications</b></summary>
