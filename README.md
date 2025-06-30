@@ -60,7 +60,7 @@ michael@bressler.dev
 </details>
 
 <details>
-  <summary><b>Off-Topic Links</b></summary>
+  <summary><b>Links</b></summary>
   
 **Test**   
 [Testing](https://google.com)   
