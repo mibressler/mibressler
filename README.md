@@ -13,6 +13,7 @@ Seine Interessenschwerpunkte liegen in den Bereichen Rechtsinformatik (Legal Tec
 michael@bressler.dev
 ```
 
+[@bressler.dev](https://threads.com/@bressler.dev) on Threads, [WhatsApp](https://google.com).
 
 
 <details>
