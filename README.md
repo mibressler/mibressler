@@ -62,10 +62,7 @@ michael@bressler.dev
 
 <details>
   <summary><b>Links</b></summary>
-  
-**Test**   
-[Testing](https://google.com)   
-[Testing](https://google.com)  
+
 
 <details>
   <summary><b>Readings</b></summary>
