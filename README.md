@@ -69,6 +69,7 @@ michael@bressler.dev
   
 **Articles**   
 [The Gentle Singularity by Sam Altman](https://blog.samaltman.com/the-gentle-singularity)   
+[Shadow libraries, copyright and AI](https://www.threads.com/@bressler.dev/post/DLj-azVt8mr?xmt=AQF0wUkt1i725y0br9S0tN8QnPvGmm43Ar-AkG_0NISHnAg)
 
 
 </details>
