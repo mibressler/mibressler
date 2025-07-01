@@ -69,7 +69,7 @@ michael@bressler.dev
   
 **Articles**   
 [The Gentle Singularity by Sam Altman](https://blog.samaltman.com/the-gentle-singularity)   
-[Shadow libraries, copyright and AI pretraining](https://www.threads.com/@bressler.dev/post/DLj-azVt8mr?xmt=AQF0wUkt1i725y0br9S0tN8QnPvGmm43Ar-AkG_0NISHnAg)
+[Shadow libraries, copyright and AI pretraining](https://www.threads.com/@bressler.dev/post/DLj-azVt8mr?xmt=AQF0wUkt1i725y0br9S0tN8QnPvGmm43Ar-AkG_0NISHnAg)   
 [_Dr. Niklas Maamar_, Urheberrechtliche Fragen beim Einsatz von generativen KI-Systemen, ZUM 2023, 481 (German)](https://beck-online-beck-de.docweb.rz.uni-passau.de:2443/Bcid/Y-300-Z-ZUM-B-2023-S-481-N-1)
 
 
