@@ -67,6 +67,14 @@ michael@bressler.dev
 [Testing](https://google.com)   
 [Testing](https://google.com)  
 
+<details>
+  <summary><b>Readings</b></summary>
+  
+**Articles**   
+[The Gentle Singularity by Sam Altman](https://blog.samaltman.com/the-gentle-singularity)   
+
+
+</details>
 
 </details>
 
