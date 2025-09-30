@@ -1,9 +1,4 @@
-
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0001-6725-0109
+[![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6725-0109) [https://orcid.org/0000-0001-6725-0109](https://orcid.org/0000-0001-6725-0109)
 
 <details open>
   <summary><b>Vorgestellt</b></summary>
