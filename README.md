@@ -1,5 +1,5 @@
 [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6725-0109) [https://orcid.org/0000-0001-6725-0109](https://orcid.org/0000-0001-6725-0109)  
-[![Threads]([https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Threads_%28app%29_logo.svg/512px-Threads_%28app%29_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/9/9d/Threads_%28app%29_logo.svg))](https://threads.com/@bressler.dev)
+
 
 
 
