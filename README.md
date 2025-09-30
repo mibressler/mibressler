@@ -1,5 +1,6 @@
 [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6725-0109) [https://orcid.org/0000-0001-6725-0109](https://orcid.org/0000-0001-6725-0109)  
-[![Threads](https://www.citypng.com/photo/63175927/threads-app-black-logo-icon-png)](https://threads.com/@bressler.dev) [threads.com/@bressler.dev](https://threads.com/@bressler.dev)
+[![Threads](https://logodix.com/logo/threads~logo~1.png)](https://threads.com/@bressler.dev) [threads.com/@bressler.dev](https://threads.com/@bressler.dev)
+
 
 
 <details open>
