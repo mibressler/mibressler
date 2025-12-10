@@ -16,7 +16,7 @@ michael@bressler.dev
 [@bressler.dev](https://threads.com/@bressler.dev) on Threads, [WhatsApp](https://wa.me/message/EXBQFAOWTVUGC1).
 
 <details open>
-  <summary><b>Vorgestellt</b></summary>
+  <summary><b>Spotlight</b></summary>
 
 [**Wiki für das Bayerische Digitalgsetz**](https://digitalgesetz.wiki)
 </details>
