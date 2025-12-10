@@ -4,7 +4,7 @@
 
  
  <details open>
-  <summary><b>Pinned</b></summary>
+  <summary><b>Pinned 📌</b></summary>
 
  [**Wiki für das Bayerische Digitalgsetz**](https://digitalgesetz.wiki)
  </details>
