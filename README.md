@@ -2,7 +2,7 @@
 [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6725-0109) [0000-0001-6725-0109](https://orcid.org/0000-0001-6725-0109)  
 [![Threads](https://engineering.fb.com/wp-content/uploads/2024/01/Threads-logo-white-16x16-1.png)](https://orcid.org/0000-0001-6725-0109) [@bressler.dev](https://threads.com/@bressler.dev)   
 [![ORCID iD](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://github.com&size=16)](https://orcid.org/0000-0001-6725-0109) [bressler.dev](https://github.com/mibressler)  
-[![ORCID iD](https://www.shareicon.net/data/16x16/2016/07/10/119959_whatsapp_512x512.png)](https://orcid.org/0000-0001-6725-0109) [Direct Message me](https://github.com/mibressler)
+[![ORCID iD](https://files.softicons.com/download/social-media-icons/flat-gradient-social-icons-by-guilherme-lima/png/16x16/Whatsapp.png)](https://orcid.org/0000-0001-6725-0109) [DM](https://github.com/mibressler)
 
 
 
