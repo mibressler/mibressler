@@ -5,7 +5,7 @@
 
 
 <details open>
-  <summary><b>Spotlight</b></summary>
+  <summary><b>Pinned</b></summary>
 
 [**Wiki für das Bayerische Digitalgsetz**](https://digitalgesetz.wiki)
 </details>
