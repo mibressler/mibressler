@@ -56,7 +56,7 @@ michael@bressler.dev
 </details>
 
 <details>
-  <summary><b>Presentations and more</b></summary>
+  <summary><b>Presentations</b></summary>
 
 
   | Nr. | Title | Links |
