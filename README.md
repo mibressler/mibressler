@@ -4,11 +4,7 @@
 [![ORCID iD](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://github.com&size=16)](https://orcid.org/0000-0001-6725-0109) [@mibressler](https://github.com/mibressler)
 
 
-<details open>
-  <summary><b>Vorgestellt</b></summary>
 
-[**Wiki für das Bayerische Digitalgsetz**](https://digitalgesetz.wiki)
-</details>
 
 Michael Bressler studies Politics & Technology (M.Sc.) at the Technical University of Munich and Legal Technology (LL.B.) at the University of Passau. Since October 2020, he has been working as a student assistant at the [Chair of Law and Security in Digital Transformation](https://www.gov.sot.tum.de/elaw/startseite/) and at the [TUM Center for Digital Public Services](https://tum-cdps.de/). His areas of interest are information technology policy and legal informatics alongside constitutional law, empirical policy evaluation,  economics & law and the development of e-learning systems.
 
@@ -19,7 +15,11 @@ michael@bressler.dev
 
 [@bressler.dev](https://threads.com/@bressler.dev) on Threads, [WhatsApp](https://wa.me/message/EXBQFAOWTVUGC1).
 
+<details open>
+  <summary><b>Vorgestellt</b></summary>
 
+[**Wiki für das Bayerische Digitalgsetz**](https://digitalgesetz.wiki)
+</details>
 <details>
   <summary><b>Essays, Blog Posts & Publications</b></summary>
 
