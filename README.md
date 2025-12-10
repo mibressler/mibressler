@@ -1,3 +1,5 @@
+[![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6725-0109) [0000-0001-6725-0109](https://orcid.org/0000-0001-6725-0109)  
+[![Threads](https://engineering.fb.com/wp-content/uploads/2024/01/Threads-logo-white-16x16-1.png)](https://orcid.org/0000-0001-6725-0109) [@bressler.dev](https://threads.com/@bressler.dev), [DM](https://github.com/mibressler), [GitHub](https://github.com/mibressler)  
 
 
 
@@ -12,8 +14,6 @@ michael@bressler.dev
 ```
 
 
-[![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6725-0109) [0000-0001-6725-0109](https://orcid.org/0000-0001-6725-0109)  
-[![Threads](https://engineering.fb.com/wp-content/uploads/2024/01/Threads-logo-white-16x16-1.png)](https://orcid.org/0000-0001-6725-0109) [@bressler.dev](https://threads.com/@bressler.dev), [DM](https://github.com/mibressler), [GitHub](https://github.com/mibressler)  
 
 
 <details open>
