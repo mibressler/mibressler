@@ -3,11 +3,7 @@
 
 
  
- <details open>
-  <summary><b>Pinned </b></summary>
 
- [**Wiki für das Bayerische Digitalgsetz**](https://digitalgesetz.wiki)
- </details>
 
 
 
@@ -21,7 +17,11 @@ michael@bressler.dev
 
 
 
+ <details open>
+  <summary><b>Pinned </b></summary>
 
+ [**Wiki für das Bayerische Digitalgsetz**](https://digitalgesetz.wiki)
+ </details>
 <details>
   <summary><b>Essays, Blog Posts & Publications</b></summary>
 
