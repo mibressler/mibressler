@@ -2,7 +2,7 @@
 ![Threads](https://engineering.fb.com/wp-content/uploads/2024/01/Threads-logo-white-16x16-1.png)   [@bressler.dev](https://threads.com/@bressler.dev), [DM](https://github.com/mibressler), [GitHub](https://github.com/mibressler)  
 
 
-> [!TIP]
+> [!Pinned]
 > Helpful advice for doing things better or more easily.
 
 <details open>
