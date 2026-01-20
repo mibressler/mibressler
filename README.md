@@ -7,7 +7,7 @@
 
 
 
-Michael Bressler studies Politics & Technology (M.Sc.) at the Technical University of Munich and Legal Technology (LL.B.) at the University of Passau. Since October 2020, he has been working as a student assistant at the [Chair of Law and Security in Digital Transformation](https://www.gov.sot.tum.de/elaw/startseite/) and at the [TUM Center for Digital Public Services](https://tum-cdps.de/). His areas of interest are information technology policy and legal informatics alongside constitutional law, empirical policy evaluation,  economics & law and the development of e-learning systems.
+Michael Bressler studies Politics & Technology (M.Sc.) at the Technical University of Munich and Legal Technology (LL.B.) at the University of Passau. Since October 2020, he has been working as a student assistant at the [Chair of Law and Security in Digital Transformation](https://www.gov.sot.tum.de/elaw/startseite/) and at the [TUM Center for Digital Public Services](https://tum-cdps.de/). His areas of interest are Information Technology Law, Innovation Law, Legal Natural Language Processing and Legal Data Science.
 
 
 ```javascript
