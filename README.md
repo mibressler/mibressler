@@ -71,6 +71,20 @@ michael@bressler.dev
 
 <details>
   <summary><b>Readings</b></summary>
+  <details>
+  <summary><b>Law & Policy</b></summary>
+  </details>
+  <details>
+  <summary><b>CS, Data Science & Software Engineering</b></summary>
+  </details>
+  <details>
+  <summary><b>Economics</b></summary>
+  </details>
+  <details>
+  <summary><b>Other</b></summary>
+   **History of Science, Technology & Economics**
+   
+  </details>
   
 **Articles**   
 [The Gentle Singularity by Sam Altman](https://blog.samaltman.com/the-gentle-singularity)   
