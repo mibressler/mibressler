@@ -71,10 +71,14 @@ michael@bressler.dev
 
 <details>
   <summary><b>Readings</b></summary>
+ 
+  **LAW & POLICY**
 
+  **CS/DATASCIENCE**
    
-  
-   
+  **ECON**
+
+  **OTHER**
    **History of Science, Technology & Economics**
 
   
