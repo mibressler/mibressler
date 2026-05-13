@@ -74,7 +74,7 @@ michael@bressler.dev
  
   **LAW & POLICY**
 
-  **CS/DATASCIENCE**
+  **CS / DATA SCIENCE**
    
   **ECON**
 
