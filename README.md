@@ -82,6 +82,7 @@ michael@bressler.dev
   </details>
   <details>
   <summary><b>Other</b></summary>
+   
    **History of Science, Technology & Economics**
    
   </details>
