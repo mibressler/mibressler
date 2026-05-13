@@ -70,18 +70,7 @@ michael@bressler.dev
 
 
 <details>
-  <summary><b>Readings</b></summary>
- 
-  **LAW & POLICY**
-
-  **CS / DATA SCIENCE**
-   
-  **ECON**
-
-  **OTHER**   
-   **History of Science, Technology & Economics**
-
-  
+  <summary><b>Readings</b></summary>  
 *Articles*   
 [The Gentle Singularity by Sam Altman](https://blog.samaltman.com/the-gentle-singularity)   
 [Shadow libraries, copyright and AI pretraining](https://www.threads.com/@bressler.dev/post/DLj-azVt8mr?xmt=AQF0wUkt1i725y0br9S0tN8QnPvGmm43Ar-AkG_0NISHnAg)   
