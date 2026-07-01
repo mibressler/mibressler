@@ -82,5 +82,9 @@ michael@bressler.xyz
 
 </details>
 
+<details>
+  <summary><b>Other Profiles</b></summary>
+[LinkedIn](https://LinkedIn.com/in/michaelbressler, [X](https://x.com/mibressler)
+</details>
 
 
