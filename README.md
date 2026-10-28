@@ -21,8 +21,16 @@ michael@bressler.xyz
 
  [**Wiki für das Bayerische Digitalgsetz**](https://digitalgesetz.wiki)
  </details>
+
+<details open>
+  <summary><b>Essays</b></summary>
+
+[Test](https://google.com)  
+
+</details>
+ 
 <details>
-  <summary><b>Essays, Blog Posts & Publications</b></summary>
+  <summary><b>Blog Posts & Publications</b></summary>
 
   | Nr. | Title | Links |
   |-|-|-|
