@@ -22,12 +22,6 @@ michael@bressler.xyz
  [**Wiki für das Bayerische Digitalgsetz**](https://digitalgesetz.wiki)
  </details>
 
-<details open>
-  <summary><b>Essays</b></summary>
-
-[Test](https://google.com)  
-
-</details>
  
 <details>
   <summary><b>Blog Posts & Publications</b></summary>
@@ -73,6 +67,13 @@ michael@bressler.xyz
 
 </details>
 
+<details open>
+  <summary><b>Personal Essays/Notes</b></summary>
+
+[Test](https://google.com)  
+
+</details>
+
 <details>
   <summary><b>Links</b></summary>
 
@@ -95,5 +96,6 @@ michael@bressler.xyz
 
 [LinkedIn](https://LinkedIn.com/in/michaelbressler), [X](https://x.com/mibressler)
 </details>
+
 
 
